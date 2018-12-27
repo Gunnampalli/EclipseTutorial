@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+	<listeners>
+		<!-- <listener class-name="com.UIFrameWork.Motivity.TestFrame.HelpersClass.Listener.RetryListner"></listener> -->
+		<listener
+			class-name="com.UIFrameWork.Motivity.TestFrame.HelpersClass.Listener.ExtentListener"></listener>
+	</listeners>
+
+	<test name="A">
+		<classes>
+			<class name="com.UIFrameWork.A"></class>
+		</classes>
+	</test>
+	<test name="B">
+		<classes>
+			<class name="com.UIFrameWork.B"></class>
+		</classes>
+	</test>
+	<test name="C">
+		<classes>
+			<class name="com.UIFrameWork.C"></class>
+		</classes>
+	</test>
+
+	<test name="TestScreenshot">
+		<classes>
+			<class
+				name="com.UIFrameWork.Motivity.TestFrame.TestScripts.TestScreenshot"></class>
+		</classes>
+	</test>
+</suite>

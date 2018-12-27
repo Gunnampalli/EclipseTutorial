@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.UIFrameWork.Motivity.TestFrame.TestScripts.Test1">
+        <methods>
+          <include name="testLogin3"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="testLogin1"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.UIFrameWork.Motivity.TestFrame.TestScripts.Test1 -->
+      <class name="com.UIFrameWork.Motivity.TestFrame.TestScripts.Test2">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="testLogin1"/>
+          <include name="testLogin3"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.UIFrameWork.Motivity.TestFrame.TestScripts.Test2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

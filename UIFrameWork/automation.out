@@ -1,0 +1,179 @@
+2018-10-25 16:10:346 INFO  LoggerHelper :23 -logger is configured
+2018-10-25 16:10:353 INFO  LoggerHelper :24 -logger is configured
+2018-10-25 16:10:354 INFO  LoggerHelper :24 -logger is configured
+2018-10-25 16:10:152 INFO  LoggerHelper :23 -logger is configured
+2018-10-25 16:10:157 INFO  LoggerHelper :24 -logger is configured
+2018-10-25 16:10:158 INFO  LoggerHelper :24 -logger is configured
+2018-10-25 16:10:87 INFO  LoggerHelper :25 -logger1 is configured
+2018-10-25 16:10:91 INFO  LoggerHelper :26 -logger1 is configured
+2018-10-25 16:10:92 INFO  LoggerHelper :26 -logger1 is configured
+2018-10-25 18:10:182 INFO  LoggerHelper :25 -logger1 is configured
+2018-10-25 18:10:187 INFO  LoggerHelper :26 -logger1 is configured
+2018-10-25 18:10:188 INFO  LoggerHelper :26 -logger1 is configured
+2018-10-26 14:10:326 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:374 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:554 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:567 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:11 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:27 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:116 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:126 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:774 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:786 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:861 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:865 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:36 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:54 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:120 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:130 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:772 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:786 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:851 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:860 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:833 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:847 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-26 14:10:916 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 1 times.
+2018-10-26 14:10:925 INFO  Retry :19 -Retrying Test testLoginwith StatusFAILUREfor the 2 times.
+2018-10-29 17:10:936 INFO  ExcelHelper :107 -result Updated
+2018-10-29 17:10:359 INFO  ExcelHelper :107 -result Updated
+2018-10-29 17:10:625 INFO  ExcelHelper :107 -result Updated
+2018-10-29 19:10:87 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:121 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:199 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:230 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:367 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:883 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:08 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:117 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:180 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:681 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:821 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:917 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:26 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:88 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-29 19:10:166 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-29 19:10:260 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-30 11:10:72 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-30 11:10:887 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-30 11:10:153 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-30 11:10:294 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-30 11:10:403 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-30 11:10:497 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-30 11:10:622 INFO  AssertionHelper :17 -making Script Pass...
+2018-10-30 11:10:731 INFO  AssertionHelper :27 -making Script Fail...
+2018-10-30 12:10:37 INFO  TestBase :106 -The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+2018-10-30 12:10:94 INFO  TestBase :106 -The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+2018-10-30 12:10:879 INFO  TestBase :106 -The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+2018-10-30 14:10:95 INFO  TestBase :106 -The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+2018-10-30 14:10:949 INFO  TestBase :114 -Intialize Web Driver:1263391254
+2018-10-30 14:10:59 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-30 14:10:75 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-30 14:10:90 INFO  WaitHelper :138 -Page is loaded
+2018-10-30 16:10:863 INFO  TestBase :119 -Intialize Web Driver:806588571
+2018-10-30 16:10:863 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-30 16:10:933 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-30 16:10:949 INFO  WaitHelper :138 -Page is loaded
+2018-10-30 16:10:810 INFO  ExtentListener :65 -ATest Started...
+2018-10-30 16:10:842 INFO  ExtentListener :26 -testLoginTest Started...
+2018-10-30 16:10:857 INFO  ExtentListener :34 -testLoginTest Passed...
+2018-10-30 16:10:905 INFO  ExtentListener :73 -ATest Finished...
+2018-10-30 16:10:921 INFO  ExtentListener :65 -BTest Started...
+2018-10-30 16:10:921 INFO  ExtentListener :26 -testLoginTest Started...
+2018-10-30 16:10:921 ERROR ExtentListener :42 -testLoginTest Failed...java.lang.AssertionError: expected [true] but found [false]
+2018-10-30 16:10:967 INFO  ExtentListener :73 -BTest Finished...
+2018-10-30 16:10:967 INFO  ExtentListener :65 -CTest Started...
+2018-10-30 16:10:967 INFO  ExtentListener :26 -testLoginTest Started...
+2018-10-30 16:10:967 ERROR ExtentListener :42 -testLoginTest Failed...java.lang.AssertionError: expected [true] but found [false]
+2018-10-30 16:10:14 INFO  ExtentListener :73 -CTest Finished...
+2018-10-30 16:10:14 INFO  ExtentListener :65 -TestScreenshotTest Started...
+2018-10-30 16:10:69 INFO  TestBase :119 -Intialize Web Driver:85357160
+2018-10-30 16:10:69 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-30 16:10:116 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-30 16:10:148 INFO  WaitHelper :138 -Page is loaded
+2018-10-30 16:10:430 INFO  ExtentListener :26 -testScreenTest Started...
+2018-10-30 16:10:652 INFO  ExtentListener :34 -testScreenTest Passed...
+2018-10-30 16:10:294 INFO  ExtentListener :73 -TestScreenshotTest Finished...
+2018-10-30 16:10:631 INFO  ExtentListener :65 -ATest Started...
+2018-10-30 16:10:355 INFO  TestBase :119 -Intialize Web Driver:1466558382
+2018-10-30 16:10:355 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-30 16:10:386 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-30 16:10:418 INFO  WaitHelper :138 -Page is loaded
+2018-10-30 16:10:720 INFO  ExtentListener :26 -testLoginTest Started...
+2018-10-30 16:10:735 INFO  ExtentListener :34 -testLoginTest Passed...
+2018-10-30 16:10:225 INFO  ExtentListener :73 -ATest Finished...
+2018-10-30 16:10:241 INFO  ExtentListener :65 -BTest Started...
+2018-10-30 16:10:241 INFO  ExtentListener :26 -testLoginTest Started...
+2018-10-30 16:10:241 ERROR ExtentListener :42 -testLoginTest Failed...java.lang.AssertionError: expected [true] but found [false]
+2018-10-30 16:10:304 INFO  ExtentListener :73 -BTest Finished...
+2018-10-30 16:10:304 INFO  ExtentListener :65 -CTest Started...
+2018-10-30 16:10:304 INFO  ExtentListener :26 -testLoginTest Started...
+2018-10-30 16:10:320 ERROR ExtentListener :42 -testLoginTest Failed...java.lang.AssertionError: expected [true] but found [false]
+2018-10-30 16:10:382 INFO  ExtentListener :73 -CTest Finished...
+2018-10-30 16:10:382 INFO  ExtentListener :65 -TestScreenshotTest Started...
+2018-10-30 16:10:112 INFO  TestBase :119 -Intialize Web Driver:663215704
+2018-10-30 16:10:112 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-30 16:10:128 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-30 16:10:160 INFO  WaitHelper :138 -Page is loaded
+2018-10-30 16:10:473 INFO  ExtentListener :26 -testScreenTest Started...
+2018-10-30 16:10:307 INFO  ExtentListener :34 -testScreenTest Passed...
+2018-10-30 16:10:357 INFO  ExtentListener :73 -TestScreenshotTest Finished...
+2018-10-31 12:10:898 INFO  TestBase :119 -Intialize Web Driver:1296109622
+2018-10-31 12:10:37 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-31 12:10:83 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-31 12:10:99 INFO  WaitHelper :138 -Page is loaded
+2018-10-31 14:10:60 INFO  TestBase :119 -Intialize Web Driver:1296109622
+2018-10-31 14:10:89 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-31 14:10:109 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-31 14:10:126 INFO  WaitHelper :138 -Page is loaded
+2018-10-31 14:10:836 INFO  TestBase :119 -Intialize Web Driver:1835778392
+2018-10-31 14:10:848 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-31 14:10:864 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-31 14:10:877 INFO  WaitHelper :138 -Page is loaded
+2018-10-31 14:10:461 INFO  TestBase :119 -Intialize Web Driver:318794136
+2018-10-31 14:10:476 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-31 14:10:541 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-31 14:10:571 INFO  WaitHelper :138 -Page is loaded
+2018-10-31 14:10:384 INFO  TestBase :119 -Intialize Web Driver:1366722422
+2018-10-31 14:10:453 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-31 14:10:470 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-31 14:10:480 INFO  WaitHelper :138 -Page is loaded
+2018-10-31 14:10:680 INFO  TestBase :119 -Intialize Web Driver:1510087865
+2018-10-31 14:10:721 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-10-31 14:10:759 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-10-31 14:10:824 INFO  WaitHelper :138 -Page is loaded
+2018-11-01 14:11:677 INFO  TestBase :119 -Intialize Web Driver:318794136
+2018-11-01 14:11:692 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-01 14:11:708 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-01 14:11:724 INFO  WaitHelper :138 -Page is loaded
+2018-11-05 15:11:173 INFO  TestBase :119 -Intialize Web Driver:98412281
+2018-11-05 15:11:251 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-05 15:11:289 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-05 15:11:305 INFO  WaitHelper :138 -Page is loaded
+2018-11-05 18:11:752 INFO  TestBase :119 -Intialize Web Driver:318794136
+2018-11-05 18:11:752 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-05 18:11:785 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-05 18:11:800 INFO  WaitHelper :138 -Page is loaded
+2018-11-06 11:11:45 INFO  TestBase :119 -Intialize Web Driver:939254952
+2018-11-06 11:11:108 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-06 11:11:170 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-06 11:11:186 INFO  WaitHelper :138 -Page is loaded
+2018-11-06 11:11:373 INFO  TestBase :119 -Intialize Web Driver:98412281
+2018-11-06 11:11:393 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-06 11:11:416 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-06 11:11:446 INFO  WaitHelper :138 -Page is loaded
+2018-11-08 15:11:557 INFO  TestBase :119 -Intialize Web Driver:891894789
+2018-11-08 15:11:135 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-08 15:11:150 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-08 15:11:166 INFO  WaitHelper :138 -Page is loaded
+2018-11-09 12:11:981 INFO  TestBase :119 -Intialize Web Driver:201392112
+2018-11-09 12:11:43 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-09 12:11:74 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-09 12:11:81 INFO  WaitHelper :138 -Page is loaded
+2018-11-12 14:11:58 INFO  TestBase :119 -Intialize Web Driver:1962398162
+2018-11-12 14:11:153 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-12 14:11:200 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-12 14:11:215 INFO  WaitHelper :138 -Page is loaded
+2018-11-12 14:11:324 INFO  TestBase :119 -Intialize Web Driver:201392112
+2018-11-12 14:11:340 INFO  WaitHelper :36 -Implicit Wait has been set to : 120
+2018-11-12 14:11:356 INFO  WaitHelper :136 -Waiting for page to load for :SECONDSseconds
+2018-11-12 14:11:372 INFO  WaitHelper :138 -Page is loaded
